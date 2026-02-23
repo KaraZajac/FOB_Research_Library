@@ -1,0 +1,1095 @@
+{
+  "version": "2.0",
+  "format": "kat-fob",
+  "signal": {
+    "protocol": "Unknown",
+    "frequency": 433920000,
+    "frequency_mhz": "433.92MHz",
+    "modulation": "Unknown",
+    "encryption": "Unknown",
+    "data_bits": 0,
+    "data_hex": "-",
+    "serial": "-",
+    "key": "-",
+    "button": null,
+    "button_name": "-",
+    "counter": null,
+    "crc_valid": false,
+    "encoder_capable": false
+  },
+  "vehicle": {
+    "year": 2010,
+    "make": "Chrysler",
+    "model": "Town & Country",
+    "region": "NA",
+    "command": "Panic",
+    "notes": "Highest Trim"
+  },
+  "capture": {
+    "timestamp": "2026-02-23T01:45:19.555842+00:00",
+    "raw_data_hex": "-",
+    "raw_pairs": [
+      {
+        "level": false,
+        "duration_us": 23291573
+      },
+      {
+        "level": true,
+        "duration_us": 47488
+      },
+      {
+        "level": false,
+        "duration_us": 73308
+      },
+      {
+        "level": true,
+        "duration_us": 7699
+      },
+      {
+        "level": false,
+        "duration_us": 200
+      },
+      {
+        "level": true,
+        "duration_us": 3542
+      },
+      {
+        "level": false,
+        "duration_us": 213
+      },
+      {
+        "level": true,
+        "duration_us": 1424
+      },
+      {
+        "level": false,
+        "duration_us": 245
+      },
+      {
+        "level": true,
+        "duration_us": 374
+      },
+      {
+        "level": false,
+        "duration_us": 41
+      },
+      {
+        "level": true,
+        "duration_us": 2255
+      },
+      {
+        "level": false,
+        "duration_us": 249
+      },
+      {
+        "level": true,
+        "duration_us": 373
+      },
+      {
+        "level": false,
+        "duration_us": 42
+      },
+      {
+        "level": true,
+        "duration_us": 1006
+      },
+      {
+        "level": false,
+        "duration_us": 246
+      },
+      {
+        "level": true,
+        "duration_us": 1430
+      },
+      {
+        "level": false,
+        "duration_us": 238
+      },
+      {
+        "level": true,
+        "duration_us": 994
+      },
+      {
+        "level": false,
+        "duration_us": 258
+      },
+      {
+        "level": true,
+        "duration_us": 998
+      },
+      {
+        "level": false,
+        "duration_us": 43
+      },
+      {
+        "level": true,
+        "duration_us": 389
+      },
+      {
+        "level": false,
+        "duration_us": 236
+      },
+      {
+        "level": true,
+        "duration_us": 368
+      },
+      {
+        "level": false,
+        "duration_us": 49
+      },
+      {
+        "level": true,
+        "duration_us": 3102
+      },
+      {
+        "level": false,
+        "duration_us": 236
+      },
+      {
+        "level": true,
+        "duration_us": 615
+      },
+      {
+        "level": false,
+        "duration_us": 219
+      },
+      {
+        "level": true,
+        "duration_us": 992
+      },
+      {
+        "level": false,
+        "duration_us": 50
+      },
+      {
+        "level": true,
+        "duration_us": 2892
+      },
+      {
+        "level": false,
+        "duration_us": 237
+      },
+      {
+        "level": true,
+        "duration_us": 990
+      },
+      {
+        "level": false,
+        "duration_us": 52
+      },
+      {
+        "level": true,
+        "duration_us": 1223
+      },
+      {
+        "level": false,
+        "duration_us": 238
+      },
+      {
+        "level": true,
+        "duration_us": 627
+      },
+      {
+        "level": false,
+        "duration_us": 207
+      },
+      {
+        "level": true,
+        "duration_us": 608
+      },
+      {
+        "level": false,
+        "duration_us": 227
+      },
+      {
+        "level": true,
+        "duration_us": 621
+      },
+      {
+        "level": false,
+        "duration_us": 211
+      },
+      {
+        "level": true,
+        "duration_us": 615
+      },
+      {
+        "level": false,
+        "duration_us": 219
+      },
+      {
+        "level": true,
+        "duration_us": 616
+      },
+      {
+        "level": false,
+        "duration_us": 218
+      },
+      {
+        "level": true,
+        "duration_us": 1416
+      },
+      {
+        "level": false,
+        "duration_us": 252
+      },
+      {
+        "level": true,
+        "duration_us": 628
+      },
+      {
+        "level": false,
+        "duration_us": 207
+      },
+      {
+        "level": true,
+        "duration_us": 1849
+      },
+      {
+        "level": false,
+        "duration_us": 237
+      },
+      {
+        "level": true,
+        "duration_us": 364
+      },
+      {
+        "level": false,
+        "duration_us": 51
+      },
+      {
+        "level": true,
+        "duration_us": 998
+      },
+      {
+        "level": false,
+        "duration_us": 253
+      },
+      {
+        "level": true,
+        "duration_us": 366
+      },
+      {
+        "level": false,
+        "duration_us": 50
+      },
+      {
+        "level": true,
+        "duration_us": 583
+      },
+      {
+        "level": false,
+        "duration_us": 252
+      },
+      {
+        "level": true,
+        "duration_us": 374
+      },
+      {
+        "level": false,
+        "duration_us": 41
+      },
+      {
+        "level": true,
+        "duration_us": 1009
+      },
+      {
+        "level": false,
+        "duration_us": 244
+      },
+      {
+        "level": true,
+        "duration_us": 614
+      },
+      {
+        "level": false,
+        "duration_us": 219
+      },
+      {
+        "level": true,
+        "duration_us": 387
+      },
+      {
+        "level": false,
+        "duration_us": 76822
+      },
+      {
+        "level": true,
+        "duration_us": 6636
+      },
+      {
+        "level": false,
+        "duration_us": 224
+      },
+      {
+        "level": true,
+        "duration_us": 1832
+      },
+      {
+        "level": false,
+        "duration_us": 44
+      },
+      {
+        "level": true,
+        "duration_us": 1654
+      },
+      {
+        "level": false,
+        "duration_us": 224
+      },
+      {
+        "level": true,
+        "duration_us": 1423
+      },
+      {
+        "level": false,
+        "duration_us": 246
+      },
+      {
+        "level": true,
+        "duration_us": 2672
+      },
+      {
+        "level": false,
+        "duration_us": 248
+      },
+      {
+        "level": true,
+        "duration_us": 374
+      },
+      {
+        "level": false,
+        "duration_us": 43
+      },
+      {
+        "level": true,
+        "duration_us": 1002
+      },
+      {
+        "level": false,
+        "duration_us": 249
+      },
+      {
+        "level": true,
+        "duration_us": 996
+      },
+      {
+        "level": false,
+        "duration_us": 46
+      },
+      {
+        "level": true,
+        "duration_us": 396
+      },
+      {
+        "level": false,
+        "duration_us": 230
+      },
+      {
+        "level": true,
+        "duration_us": 994
+      },
+      {
+        "level": false,
+        "duration_us": 258
+      },
+      {
+        "level": true,
+        "duration_us": 993
+      },
+      {
+        "level": false,
+        "duration_us": 49
+      },
+      {
+        "level": true,
+        "duration_us": 403
+      },
+      {
+        "level": false,
+        "duration_us": 224
+      },
+      {
+        "level": true,
+        "duration_us": 373
+      },
+      {
+        "level": false,
+        "duration_us": 42
+      },
+      {
+        "level": true,
+        "duration_us": 3088
+      },
+      {
+        "level": false,
+        "duration_us": 251
+      },
+      {
+        "level": true,
+        "duration_us": 624
+      },
+      {
+        "level": false,
+        "duration_us": 209
+      },
+      {
+        "level": true,
+        "duration_us": 3941
+      },
+      {
+        "level": false,
+        "duration_us": 233
+      },
+      {
+        "level": true,
+        "duration_us": 998
+      },
+      {
+        "level": false,
+        "duration_us": 43
+      },
+      {
+        "level": true,
+        "duration_us": 1236
+      },
+      {
+        "level": false,
+        "duration_us": 224
+      },
+      {
+        "level": true,
+        "duration_us": 616
+      },
+      {
+        "level": false,
+        "duration_us": 218
+      },
+      {
+        "level": true,
+        "duration_us": 615
+      },
+      {
+        "level": false,
+        "duration_us": 219
+      },
+      {
+        "level": true,
+        "duration_us": 629
+      },
+      {
+        "level": false,
+        "duration_us": 205
+      },
+      {
+        "level": true,
+        "duration_us": 612
+      },
+      {
+        "level": false,
+        "duration_us": 223
+      },
+      {
+        "level": true,
+        "duration_us": 624
+      },
+      {
+        "level": false,
+        "duration_us": 210
+      },
+      {
+        "level": true,
+        "duration_us": 1420
+      },
+      {
+        "level": false,
+        "duration_us": 249
+      },
+      {
+        "level": true,
+        "duration_us": 632
+      },
+      {
+        "level": false,
+        "duration_us": 203
+      },
+      {
+        "level": true,
+        "duration_us": 1850
+      },
+      {
+        "level": false,
+        "duration_us": 235
+      },
+      {
+        "level": true,
+        "duration_us": 366
+      },
+      {
+        "level": false,
+        "duration_us": 49
+      },
+      {
+        "level": true,
+        "duration_us": 584
+      },
+      {
+        "level": false,
+        "duration_us": 42
+      },
+      {
+        "level": true,
+        "duration_us": 379
+      },
+      {
+        "level": false,
+        "duration_us": 248
+      },
+      {
+        "level": true,
+        "duration_us": 371
+      },
+      {
+        "level": false,
+        "duration_us": 44
+      },
+      {
+        "level": true,
+        "duration_us": 588
+      },
+      {
+        "level": false,
+        "duration_us": 247
+      },
+      {
+        "level": true,
+        "duration_us": 1432
+      },
+      {
+        "level": false,
+        "duration_us": 236
+      },
+      {
+        "level": true,
+        "duration_us": 613
+      },
+      {
+        "level": false,
+        "duration_us": 221
+      },
+      {
+        "level": true,
+        "duration_us": 379
+      },
+      {
+        "level": false,
+        "duration_us": 77875
+      },
+      {
+        "level": true,
+        "duration_us": 6622
+      },
+      {
+        "level": false,
+        "duration_us": 236
+      },
+      {
+        "level": true,
+        "duration_us": 368
+      },
+      {
+        "level": false,
+        "duration_us": 47
+      },
+      {
+        "level": true,
+        "duration_us": 3106
+      },
+      {
+        "level": false,
+        "duration_us": 232
+      },
+      {
+        "level": true,
+        "duration_us": 372
+      },
+      {
+        "level": false,
+        "duration_us": 44
+      },
+      {
+        "level": true,
+        "duration_us": 999
+      },
+      {
+        "level": false,
+        "duration_us": 254
+      },
+      {
+        "level": true,
+        "duration_us": 364
+      },
+      {
+        "level": false,
+        "duration_us": 51
+      },
+      {
+        "level": true,
+        "duration_us": 2259
+      },
+      {
+        "level": false,
+        "duration_us": 246
+      },
+      {
+        "level": true,
+        "duration_us": 370
+      },
+      {
+        "level": false,
+        "duration_us": 45
+      },
+      {
+        "level": true,
+        "duration_us": 1019
+      },
+      {
+        "level": false,
+        "duration_us": 233
+      },
+      {
+        "level": true,
+        "duration_us": 1441
+      },
+      {
+        "level": false,
+        "duration_us": 228
+      },
+      {
+        "level": true,
+        "duration_us": 1003
+      },
+      {
+        "level": false,
+        "duration_us": 247
+      },
+      {
+        "level": true,
+        "duration_us": 1437
+      },
+      {
+        "level": false,
+        "duration_us": 231
+      },
+      {
+        "level": true,
+        "duration_us": 372
+      },
+      {
+        "level": false,
+        "duration_us": 44
+      },
+      {
+        "level": true,
+        "duration_us": 3101
+      },
+      {
+        "level": false,
+        "duration_us": 237
+      },
+      {
+        "level": true,
+        "duration_us": 628
+      },
+      {
+        "level": false,
+        "duration_us": 205
+      },
+      {
+        "level": true,
+        "duration_us": 3953
+      },
+      {
+        "level": false,
+        "duration_us": 219
+      },
+      {
+        "level": true,
+        "duration_us": 2280
+      },
+      {
+        "level": false,
+        "duration_us": 224
+      },
+      {
+        "level": true,
+        "duration_us": 612
+      },
+      {
+        "level": false,
+        "duration_us": 221
+      },
+      {
+        "level": true,
+        "duration_us": 631
+      },
+      {
+        "level": false,
+        "duration_us": 202
+      },
+      {
+        "level": true,
+        "duration_us": 620
+      },
+      {
+        "level": false,
+        "duration_us": 214
+      },
+      {
+        "level": true,
+        "duration_us": 620
+      },
+      {
+        "level": false,
+        "duration_us": 214
+      },
+      {
+        "level": true,
+        "duration_us": 631
+      },
+      {
+        "level": false,
+        "duration_us": 202
+      },
+      {
+        "level": true,
+        "duration_us": 1433
+      },
+      {
+        "level": false,
+        "duration_us": 235
+      },
+      {
+        "level": true,
+        "duration_us": 629
+      },
+      {
+        "level": false,
+        "duration_us": 205
+      },
+      {
+        "level": true,
+        "duration_us": 1855
+      },
+      {
+        "level": false,
+        "duration_us": 230
+      },
+      {
+        "level": true,
+        "duration_us": 373
+      },
+      {
+        "level": false,
+        "duration_us": 43
+      },
+      {
+        "level": true,
+        "duration_us": 1003
+      },
+      {
+        "level": false,
+        "duration_us": 248
+      },
+      {
+        "level": true,
+        "duration_us": 367
+      },
+      {
+        "level": false,
+        "duration_us": 49
+      },
+      {
+        "level": true,
+        "duration_us": 587
+      },
+      {
+        "level": false,
+        "duration_us": 248
+      },
+      {
+        "level": true,
+        "duration_us": 375
+      },
+      {
+        "level": false,
+        "duration_us": 41
+      },
+      {
+        "level": true,
+        "duration_us": 1016
+      },
+      {
+        "level": false,
+        "duration_us": 237
+      },
+      {
+        "level": true,
+        "duration_us": 617
+      },
+      {
+        "level": false,
+        "duration_us": 216
+      },
+      {
+        "level": true,
+        "duration_us": 384
+      },
+      {
+        "level": false,
+        "duration_us": 77870
+      },
+      {
+        "level": true,
+        "duration_us": 6641
+      },
+      {
+        "level": false,
+        "duration_us": 218
+      },
+      {
+        "level": true,
+        "duration_us": 3532
+      },
+      {
+        "level": false,
+        "duration_us": 222
+      },
+      {
+        "level": true,
+        "duration_us": 1428
+      },
+      {
+        "level": false,
+        "duration_us": 240
+      },
+      {
+        "level": true,
+        "duration_us": 2674
+      },
+      {
+        "level": false,
+        "duration_us": 246
+      },
+      {
+        "level": true,
+        "duration_us": 1422
+      },
+      {
+        "level": false,
+        "duration_us": 246
+      },
+      {
+        "level": true,
+        "duration_us": 997
+      },
+      {
+        "level": false,
+        "duration_us": 45
+      },
+      {
+        "level": true,
+        "duration_us": 405
+      },
+      {
+        "level": false,
+        "duration_us": 221
+      },
+      {
+        "level": true,
+        "duration_us": 1001
+      },
+      {
+        "level": false,
+        "duration_us": 249
+      },
+      {
+        "level": true,
+        "duration_us": 1001
+      },
+      {
+        "level": false,
+        "duration_us": 41
+      },
+      {
+        "level": true,
+        "duration_us": 414
+      },
+      {
+        "level": false,
+        "duration_us": 212
+      },
+      {
+        "level": true,
+        "duration_us": 3519
+      },
+      {
+        "level": false,
+        "duration_us": 237
+      },
+      {
+        "level": true,
+        "duration_us": 620
+      },
+      {
+        "level": false,
+        "duration_us": 213
+      },
+      {
+        "level": true,
+        "duration_us": 1001
+      },
+      {
+        "level": false,
+        "duration_us": 41
+      },
+      {
+        "level": true,
+        "duration_us": 2898
+      },
+      {
+        "level": false,
+        "duration_us": 232
+      },
+      {
+        "level": true,
+        "duration_us": 996
+      },
+      {
+        "level": false,
+        "duration_us": 45
+      },
+      {
+        "level": true,
+        "duration_us": 1229
+      },
+      {
+        "level": false,
+        "duration_us": 231
+      },
+      {
+        "level": true,
+        "duration_us": 634
+      },
+      {
+        "level": false,
+        "duration_us": 201
+      },
+      {
+        "level": true,
+        "duration_us": 621
+      },
+      {
+        "level": false,
+        "duration_us": 212
+      },
+      {
+        "level": true,
+        "duration_us": 626
+      },
+      {
+        "level": false,
+        "duration_us": 209
+      },
+      {
+        "level": true,
+        "duration_us": 631
+      },
+      {
+        "level": false,
+        "duration_us": 202
+      },
+      {
+        "level": true,
+        "duration_us": 616
+      },
+      {
+        "level": false,
+        "duration_us": 218
+      },
+      {
+        "level": true,
+        "duration_us": 1433
+      },
+      {
+        "level": false,
+        "duration_us": 236
+      },
+      {
+        "level": true,
+        "duration_us": 620
+      },
+      {
+        "level": false,
+        "duration_us": 213
+      },
+      {
+        "level": true,
+        "duration_us": 1000
+      },
+      {
+        "level": false,
+        "duration_us": 42
+      },
+      {
+        "level": true,
+        "duration_us": 827
+      },
+      {
+        "level": false,
+        "duration_us": 217
+      },
+      {
+        "level": true,
+        "duration_us": 1421
+      },
+      {
+        "level": false,
+        "duration_us": 247
+      },
+      {
+        "level": true,
+        "duration_us": 1015
+      },
+      {
+        "level": false,
+        "duration_us": 235
+      },
+      {
+        "level": true,
+        "duration_us": 1425
+      },
+      {
+        "level": false,
+        "duration_us": 244
+      },
+      {
+        "level": true,
+        "duration_us": 636
+      },
+      {
+        "level": false,
+        "duration_us": 198
+      },
+      {
+        "level": true,
+        "duration_us": 399
+      },
+      {
+        "level": false,
+        "duration_us": 85462
+      }
+    ],
+    "raw_pair_count": 265
+  }
+}
