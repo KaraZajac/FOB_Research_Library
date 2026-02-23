@@ -113,7 +113,7 @@ High-quality captures from real keyfobs are what make this library useful. **If 
 **3. Export .fob**
 
 - With the capture selected, press **Enter** to open the signal action menu.
-- Choose **Export .fob**, check the filename (KAT adds a unique 8-character hex suffix for unknown protocol).
+- Choose **Export .fob**, check the filename (KAT adds a unique 8-character hex suffix for all protocols).
 - Confirm vehicle fields and export.
 
 **4. Verify the file**
